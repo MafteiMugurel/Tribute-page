@@ -1,41 +1,43 @@
-#main {
-    
-}
-
 #title {
     font-family: serif;
     font-size: 42px;
 }
+
 #image {
     max-width: 100%;
     height: auto;
-
 }
-.header{
+
+.header {
     text-align: -webkit-center;
 }
+
 #tribute-info {
     margin: 60px auto 90px auto;
     max-width: 1000px;
 }
+
 li {
     margin-bottom: 13px;
 }
+
 #img-caption {
     margin: 30px;
     font-family: serif;
     font-weight: 600;
 }
+
 .external-link {
     margin: 15px auto;
     display: flex;
     justify-content: center;
     max-width: 60vw;
 }
+
 body {
-    background-color: rgb(255 255 255 / 1);
+    background-color: whitesmoke;
 }
+
 #img-div {
     max-width: 60vw;
-
 }
