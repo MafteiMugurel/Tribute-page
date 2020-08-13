@@ -1,0 +1,32 @@
+#main {
+    
+}
+
+#title {
+
+}
+#image {
+    max-width: 100%;
+    height: auto;
+
+}
+.header{
+    text-align: center;
+}
+#tribute-info {
+    margin: 60px 90px;
+}
+
+li {
+    margin-bottom: 13px;
+}
+#img-caption {
+    margin: 30px;
+}
+.external-link {
+    float: right;
+    margin: 15px;
+}
+body {
+    background-color: rgb(255 230 200 / 1);
+}
